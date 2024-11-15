@@ -1,0 +1,14 @@
+html {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    text-transform: uppercase;
+}
+
+img {
+    width: 600px;
+    border: solid 5px;
+}
